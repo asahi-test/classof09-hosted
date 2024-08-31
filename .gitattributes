@@ -16,4 +16,3 @@ game/WCsplash.webm filter=lfs diff=lfs merge=lfs -text
 game.zip filter=lfs diff=lfs merge=lfs -text
 game/cs0113.webm filter=lfs diff=lfs merge=lfs -text
 game/cs0131.webm filter=lfs diff=lfs merge=lfs -text
-index.wasm filter=lfs diff=lfs merge=lfs -text
